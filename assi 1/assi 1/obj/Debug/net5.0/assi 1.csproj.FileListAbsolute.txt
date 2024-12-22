@@ -1,0 +1,15 @@
+D:\back end developer videos\C#\assi 1\assi 1\obj\Debug\net5.0\assi 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\back end developer videos\C#\assi 1\assi 1\obj\Debug\net5.0\assi 1.AssemblyInfoInputs.cache
+D:\back end developer videos\C#\assi 1\assi 1\obj\Debug\net5.0\assi 1.AssemblyInfo.cs
+D:\back end developer videos\C#\assi 1\assi 1\obj\Debug\net5.0\assi 1.csproj.CoreCompileInputs.cache
+D:\back end developer videos\C#\assi 1\assi 1\bin\Debug\net5.0\assi 1.exe
+D:\back end developer videos\C#\assi 1\assi 1\bin\Debug\net5.0\assi 1.deps.json
+D:\back end developer videos\C#\assi 1\assi 1\bin\Debug\net5.0\assi 1.runtimeconfig.json
+D:\back end developer videos\C#\assi 1\assi 1\bin\Debug\net5.0\assi 1.runtimeconfig.dev.json
+D:\back end developer videos\C#\assi 1\assi 1\bin\Debug\net5.0\assi 1.dll
+D:\back end developer videos\C#\assi 1\assi 1\bin\Debug\net5.0\assi 1.pdb
+D:\back end developer videos\C#\assi 1\assi 1\obj\Debug\net5.0\assi 1.dll
+D:\back end developer videos\C#\assi 1\assi 1\obj\Debug\net5.0\refint\assi 1.dll
+D:\back end developer videos\C#\assi 1\assi 1\obj\Debug\net5.0\assi 1.pdb
+D:\back end developer videos\C#\assi 1\assi 1\obj\Debug\net5.0\assi 1.genruntimeconfig.cache
+D:\back end developer videos\C#\assi 1\assi 1\obj\Debug\net5.0\ref\assi 1.dll
